@@ -1,1 +1,3 @@
-# github-workshop-2022
+# Github Workshop 2022
+
+Hello there, and welcome!
